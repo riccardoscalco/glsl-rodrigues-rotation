@@ -1,6 +1,6 @@
 {
   "name": "glsl-rodrigues-rotation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "glsl implementation of the Rodrigues's rotation formula",
   "main": "index.js",
   "scripts": {
