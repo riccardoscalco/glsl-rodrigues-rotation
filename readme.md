@@ -1,6 +1,6 @@
-# glsl-gcd
+# glsl-rodrigues-rotation
 
-Glsl implementation of the Rodrigues's rotation formula, an efficient algorithm for rotating a vector in space given an axis and angle of rotation (https://en.wikipedia.org/wiki/Rodrigues%27_rotation_formula).
+Glsl implementation of the Rodrigues's rotation formula. An efficient algorithm for rotating a vector in space, given an axis and angle of rotation (https://en.wikipedia.org/wiki/Rodrigues%27_rotation_formula).
 
 ## Install
 
