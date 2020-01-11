@@ -1,0 +1,33 @@
+{
+  "name": "glsl-rodrigues-rotation",
+  "version": "1.0.0",
+  "description": "glsl implementation of the Rodrigues's rotation formula",
+  "main": "index.js",
+  "scripts": {
+    "test": "glslify test.glsl | glsl-testify | tap-spec",
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/riccardoscalco/glsl-rodrigues-rotation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riccardoscalco/glsl-rodrigues-rotation/issues"
+  },
+  "keywords": [
+    "glsl",
+    "rodrigues",
+    "formula",
+    "rotation",
+    "webgl",
+    "glslify",
+    "math"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "glsl-testify": "^1.0.0",
+    "glslify": "^7.0.0",
+    "np": "^5.2.1",
+    "tap-spec": "^5.0.0"
+  }
+}
